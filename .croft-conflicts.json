@@ -1,0 +1,35 @@
+{
+  "_comment": "Conflict watch list for the croft-update skill. Each rule fires if any 'match' term appears (case-insensitive, word boundaries) in either an extracted document or in the drafted prose for an h3 section. Inject 'disclosure' as the first line under that h3, once per h3 maximum. Mirror human-readable text in CONFLICTS.md.",
+  "rules": [
+    {
+      "id": "friends-of-jp",
+      "match": [
+        "Friends of JP",
+        "FOJP",
+        "JP Educational Collective",
+        "Jamaica Plain parents"
+      ],
+      "disclosure": "*Disclosure: I represent Friends of JP, a Jamaica Plain parent group that may participate in the case as a lender or claimant.*"
+    },
+    {
+      "id": "croft-bonds",
+      "match": [
+        "Croft Bond",
+        "Croft Bonds",
+        "bondholder",
+        "bond holders"
+      ],
+      "disclosure": "*Disclosure: I personally hold Croft Bonds and am represented separately as a bondholder.*"
+    },
+    {
+      "id": "prepaid-tuition",
+      "match": [
+        "prepaid tuition",
+        "tuition refund",
+        "tuition deposit",
+        "tuition claim"
+      ],
+      "disclosure": "*Disclosure: I am also a prepaid-tuition claimant and am represented separately on that claim.*"
+    }
+  ]
+}
