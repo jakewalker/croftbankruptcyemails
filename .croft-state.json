@@ -1,10 +1,10 @@
 {
   "_comment": "Machine state for the croft-update skill. Edit by hand only if you know what you are doing. See .claude/skills/croft-update/SKILL.md.",
-  "last_issue_number": 1,
-  "last_issue_date": "2026-06-11",
-  "last_issue_filename": "20260611.md",
-  "last_max_docket_entry_id": 467040329,
-  "last_max_date_modified": "2026-06-10T19:04:24.237458-07:00",
+  "last_issue_number": 2,
+  "last_issue_date": "2026-06-18",
+  "last_issue_filename": "20260618.md",
+  "last_max_docket_entry_id": 467837830,
+  "last_max_date_modified": "2026-06-17T07:00:57.692259-07:00",
   "covered_entry_ids": [
     466432849,
     466432850,
@@ -22,9 +22,18 @@
     466622472,
     466679568,
     466831435,
-    466956266
+    466956266,
+    467482402,
+    467492429,
+    467837830
   ],
-  "covered_recap_document_ids": [],
+  "covered_recap_document_ids": [
+    482747669,
+    483251804,
+    482757824,
+    483251808,
+    483109199
+  ],
   "deferred_entry_ids": [],
   "docket_alert_id": 360661
 }
