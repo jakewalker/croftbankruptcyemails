@@ -2,3 +2,6 @@
 # Kept locally for reference but not tracked.
 *-dryrun.md
 *.dryrun.md
+
+# macOS folder metadata
+.DS_Store
