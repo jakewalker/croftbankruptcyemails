@@ -41,3 +41,11 @@ A **merchant cash advance** is a deal where a business takes a lump sum up front
 ## Promissory note *(first defined in Issue #4, 2026-07-02)*
 
 A **promissory note** is a written promise to repay a set sum on set terms.
+
+## Abandon *(first defined in Issue #5, 2026-07-09)*
+
+To **abandon** property in a bankruptcy is to give it up because it has no value left for the estate to collect.
+
+## Administrative complaint *(first defined in Issue #5, 2026-07-09)*
+
+An **administrative complaint** is a formal set of allegations that a state agency uses to start a case it decides itself, rather than in court.
