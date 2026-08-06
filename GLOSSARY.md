@@ -49,3 +49,11 @@ To **abandon** property in a bankruptcy is to give it up because it has no value
 ## Administrative complaint *(first defined in Issue #5, 2026-07-09)*
 
 An **administrative complaint** is a formal set of allegations that a state agency uses to start a case it decides itself, rather than in court.
+
+## Plan administrator *(first defined in Issue #8, 2026-08-06)*
+
+A **plan administrator** is the person legally responsible for running a retirement plan and its required filings.
+
+## Rule 2004 examination *(first defined in Issue #8, 2026-08-06)*
+
+A **Rule 2004 examination** is a bankruptcy tool that lets the trustee demand documents and question a person or company under oath.

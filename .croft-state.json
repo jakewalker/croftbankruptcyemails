@@ -1,11 +1,12 @@
 {
   "_comment": "Machine state for the croft-update skill. Edit by hand only if you know what you are doing. See .claude/skills/croft-update/SKILL.md.",
-  "last_issue_number": 7,
-  "last_issue_date": "2026-07-23",
-  "last_issue_filename": "20260723.md",
+  "last_issue_number": 8,
+  "last_issue_date": "2026-08-06",
+  "last_issue_filename": "20260806.md",
   "last_max_docket_entry_id": 470949385,
-  "last_max_date_modified": "2026-07-23T04:22:17.173095-07:00",
+  "last_max_date_modified": "2026-08-06T07:40:09.346628-07:00",
   "_note_20260723": "Issue #7 drafted via Dingduff MCP because the CourtListener MCP was unauthenticated. CourtListener docket-entry IDs were unavailable, so covered_entry_ids was NOT updated and last_max_docket_entry_id is stale (still the issue-#6 value). Entries covered this run by PACER entry number: 59, 65, 66, 69, 71, 73, 74, 75, 76, 77, 82, 83, 84, 85, 86, 87, 88. Entry numbers 78-81 were not in RECAP as of 2026-07-23; per Jake (from PACER) they are all certificates of mailing — treat as covered. Also covered: the un-numbered text-only entry dated 2026-07-22 (Trustee's Notice of Continued Meeting of Creditors, Aug 19 2026 9:30 a.m.). Next run: dedupe these by entry number or recap-document id, then update covered_entry_ids with their CL ids and delete this note.",
+  "_note_20260806": "Issue #8 also drafted via Dingduff MCP (CourtListener MCP still unauthenticated), so covered_entry_ids again NOT updated with CL docket-entry ids and last_max_docket_entry_id remains stale. Entries covered this run by PACER entry number: 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99 (89/90/93/94 are BNC certificates, skipped as routine). The two un-numbered 2026-07-22 rows (continued 341 notice) were already covered in Issue #7. Recap-document ids for docs used in the draft were appended to covered_recap_document_ids. Next run: if CourtListener MCP is authenticated, dedupe issues #7-#8 by entry number or recap-document id, backfill covered_entry_ids, and delete both notes.",
   "covered_entry_ids": [
     466432849,
     466432850,
@@ -130,7 +131,14 @@
     486957255,
     486967075,
     486991068,
-    487048369
+    487048369,
+    487638837,
+    487672967,
+    488464362,
+    488526639,
+    488690926,
+    488690833,
+    488829733
   ],
   "deferred_entry_ids": [],
   "docket_alert_id": 360661
