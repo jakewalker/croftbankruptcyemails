@@ -57,3 +57,15 @@ A **plan administrator** is the person legally responsible for running a retirem
 ## Rule 2004 examination *(first defined in Issue #8, 2026-08-06)*
 
 A **Rule 2004 examination** is a bankruptcy tool that lets the trustee demand documents and question a person or company under oath.
+
+## Litigation claims (as estate assets) *(first defined in Issue #9, 2026-08-20)*
+
+A company's **litigation claims** are its rights to sue those who caused it harm. They count as assets of the bankruptcy estate, the same as cash or property, and the trustee can pursue them for the benefit of creditors. Where a company has little left to sell, its claims may be nearly all it has.
+
+## Claw back *(first defined in Issue #9, 2026-08-20)*
+
+To **claw back** a payment is to sue to get money the company paid out before the bankruptcy returned to the estate, so it can be shared among all creditors rather than staying with whoever happened to be paid first.
+
+## Insider *(first defined in Issue #9, 2026-08-20)*
+
+An **insider** is someone close enough to the company to have influenced it, such as an officer, a manager, or a member of their family. Claw-back rules reach furthest for payments made to insiders.
